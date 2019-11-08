@@ -1,5 +1,7 @@
 channels:
+- currentCSV: quay.v0.0.6
+  name: "4.2"
 - currentCSV: quay.v0.0.7
-  name: alpha
-defaultChannel: alpha
+  name: "4.3"
+defaultChannel: "4.3"
 packageName: quay
